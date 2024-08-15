@@ -139,7 +139,7 @@ button {
 @media screen and (min-width: 900px) {
     .abstract-bg-wrapper {
         height: 30rem;
-        background-image: url("../assets/images/background-pattern-desktop.svg");
+        background-image: url("./assets/images/background-pattern-desktop.svg");
     }
 
     .faq-title {
